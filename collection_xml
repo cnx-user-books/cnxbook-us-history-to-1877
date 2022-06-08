@@ -1,6 +1,6 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11484</md:content-id>
+  <md:content-id>col11483</md:content-id>
   <md:title>US History to 1877</md:title>
   
   
@@ -15,7 +15,7 @@
   
   
 
-  <md:uuid>1b69a8c6-de72-4a82-b6b2-a058bfe72236</md:uuid>
+  <md:uuid>8e723d42-a446-437d-aa94-0e912fdcd749</md:uuid>
 <md:slug>us-history-to-1877</md:slug>
 </metadata>
 
@@ -31,7 +31,7 @@
       
     
     
-      <col:module document="m43292"/>
+      <col:module document="m35277"/>
         
       
     
