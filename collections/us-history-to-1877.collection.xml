@@ -1,39 +1,16 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Dr. James Ross-Nazzal ,David White">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11484</md:content-id>
-  <md:title>US History to 1877</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>1b69a8c6-de72-4a82-b6b2-a058bfe72236</md:uuid>
-<md:slug>us-history-to-1877</md:slug>
-</metadata>
-
+    <md:content-id>col11484</md:content-id>
+    <md:title>US History to 1877</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>1b69a8c6-de72-4a82-b6b2-a058bfe72236</md:uuid>
+    <md:slug>us-history-to-1877</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m35275"/>
-        
-      
-    
-    
-      <col:module document="m35276"/>
-        
-      
-    
-    
-      <col:module document="m43292"/>
-        
-      
-    
+    <col:module document="m35275"/>
+    <col:module document="m35276"/>
+    <col:module document="m43292"/>
   </col:content>
 </col:collection>
